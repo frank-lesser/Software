@@ -2,7 +2,7 @@
 
 Software rules the world. This is my overview from a programmers point of view. The links below are the GitHub pages of some major companies:
 
-## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Twitter](https://github.com/twitter) [eBay](https://github.com/ebay)
+## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Sony](https://github.com/sony), [Twitter](https://github.com/twitter), [eBay](https://github.com/ebay)
 
 ## Software Categories
 ## [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
@@ -14,7 +14,11 @@ Software rules the world. This is my overview from a programmers point of view. 
 - Unix Systems
 
     - [BSD](https://www.bsd.org)
-    - [Linux](https://www.linux.com) ( [Android](https://www.android.com) )
+    - [Linux](https://www.linux.com)
+
+      - [Kernels](https://www.kernel.org)
+      - [Android](https://www.android.com)
+
 
 - [MS-Windows](https://www.microsoft.com/en-us/windows)
 
@@ -33,7 +37,7 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [Python](https://www.python.org), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Matlab](https://www.mathworks.com/products/matlab.html), [Mathematica](https://www.wolfram.com/language/index.en.html?footer=lang), [R](https://www.r-project.org), [ML](https://en.wikipedia.org/wiki/ML_(programming_language)), 
 - [Lua](https://www.lua.org), [Typescript](http://www.typescriptlang.org)
-- [Scheme](https://schemers.org), [Haskell](https://www.haskell.org) [F#](https://docs.microsoft.com/en-us/dotnet/fsharp), [CommonLISP](https://common-lisp.net)
+- [Scheme](https://schemers.org), [Haskell](https://www.haskell.org), [F#](https://docs.microsoft.com/en-us/dotnet/fsharp), [CommonLISP](https://common-lisp.net)
 - [Go](https://golang.org), [Dart](https://dart.dev), [Kotlin](https://kotlinlang.org)
 - [Julia](https://julialang.org), [Zig](https://ziglang.org)
 - [Non-Engish](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
@@ -46,6 +50,28 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [Unreal](https://docs.unrealengine.com/en-US/GettingStarted/DownloadingUnrealEngine/index.html)
 - [Irrlicht](http://irrlicht.sourceforge.net)
 
+## Frameworks & Libraries
+
+- [Boost](https://www.boost.org)
+- [Microsoft .Net](https://referencesource.microsoft.com)
+- [Mono](https://www.mono-project.com)
+
+## Compiler
+
+- [LLVM Compiler Infrastructure](http://llvm.org)
+  - [LLVM Github mirror](https://github.com/llvm-mirror/llvm)
+  - [CLang Github mirror](https://github.com/llvm-mirror/clang)
+
+## Tools
+
+### Editors
+- [Emacs](http://zklhp.github.io/emacs-w64/)
+- [Notepad++](https://github.com/notepad-plus-plus)
+- [VSCode](https://github.com/microsoft/vscode)
+- [VIM](https://www.vim.org)
+
+### Encryption
+- [Gpg4win](https://gpg4win.org)
 
 ## [Internet Archive](archive.org)
 
