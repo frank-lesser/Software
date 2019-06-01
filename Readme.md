@@ -25,6 +25,9 @@ Software rules the world. This is my overview from a programmers point of view. 
 ## Science
 - [Nasa](https://github.com/nasa), [MIT](https://news.mit.edu/topic/software), [Berkeley](https://software.berkeley.edu)
 
+
+## Research
+- [Facebook](https://github.com/facebookresearch)
 ## Entertainment
 - [Disney](https://github.com/disney), [Electronic-Arts](https://github.com/electronicarts), [Sony](https://github.com/sony), [Valve](https://github.com/ValveSoftware)
 
@@ -55,6 +58,14 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [Boost](https://www.boost.org)
 - [Microsoft .Net](https://referencesource.microsoft.com)
 - [Mono](https://www.mono-project.com)
+- [QuickTime](https://github.com/qt)
+- ### [Wine HQ](https://www.winehq.org)
+  - [Staging](https://github.com/wine-staging/wine-staging)
+## Math
+- [GNU Octave](https://www.gnu.org/software/octave/)
+
+### Optimitzation
+- [Opt](http://optlang.org)
 
 ## Compiler
 
@@ -62,7 +73,16 @@ Software rules the world. This is my overview from a programmers point of view. 
   - [LLVM Github mirror](https://github.com/llvm-mirror/llvm)
   - [CLang Github mirror](https://github.com/llvm-mirror/clang)
 
+## Databases
+- [PostgreSQL](https://www.postgresql.org)
 ## Tools
+
+- [Git](https://github.com/git/git)
+- [WinMerge](https://github.com/WinMerge/winmerge-v2)
+
+  ### Documentation
+  - [Sphinx](http://www.sphinx-doc.org/en/master/)
+  - [Doxygen](http://www.doxygen.nl)
 
 ### Editors
 - [Emacs](http://zklhp.github.io/emacs-w64/)
@@ -73,6 +93,17 @@ Software rules the world. This is my overview from a programmers point of view. 
 ### Encryption
 - [Gpg4win](https://gpg4win.org)
 
+### Office
+- [LibreOffice](https://www.libreoffice.org)
+- [GNumeric](http://www.gnumeric.org)
+
 ## [Internet Archive](archive.org)
 
 ## [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+
+- [ArrayFire](https://github.com/arrayfire/arrayfire-ml.git)
+- [CNTK](https://github.com/microsoft/CNTK.git)
+
+## GPU
+- [OpenCL](https://www.khronos.org/opencl/)
+- [ArrayFire](https://github.com/arrayfire/arrayfire.git)
