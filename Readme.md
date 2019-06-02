@@ -7,6 +7,7 @@ Software rules the world. This is my overview from a programmers point of view. 
 ## Software Categories
 ## [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
 
+- [Free Software Foundation (FSF) ](https://www.fsf.org)
 - [Alternative Software](https://alternativeto.net)
 
 ## Operating-Systems
@@ -15,18 +16,23 @@ Software rules the world. This is my overview from a programmers point of view. 
 
     - [BSD](https://www.bsd.org)
     - [Linux](https://www.linux.com)
+    - [GNU](https://www.gnu.org)
 
       - [Kernels](https://www.kernel.org)
       - [Android](https://www.android.com)
 
 
 - [MS-Windows](https://www.microsoft.com/en-us/windows)
+- [ReactOS](https://reactos.org)
+- [FreeOS](http://freeos.com/Downloads)
 
 ## Science
 - [Nasa](https://github.com/nasa), [MIT](https://news.mit.edu/topic/software), [Berkeley](https://software.berkeley.edu)
 
 
 ## Research
+- [Microsoft](https://research.microsoft.com/)
+- [Google](https://ai.google/research)
 - [Facebook](https://github.com/facebookresearch)
 ## Entertainment
 - [Disney](https://github.com/disney), [Electronic-Arts](https://github.com/electronicarts), [Sony](https://github.com/sony), [Valve](https://github.com/ValveSoftware)
@@ -50,6 +56,7 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [Unity](https://github.com/Unity-Technologies/UnityCsReference)
 - [CryEngine](https://github.com/CRYTEK/CRYENGINE)
 - [Lumberyard](https://github.com/aws/lumberyard)
+- [Ogre](https://ogrecave.github.io/ogre/)
 - [Unreal](https://docs.unrealengine.com/en-US/GettingStarted/DownloadingUnrealEngine/index.html)
 - [Irrlicht](http://irrlicht.sourceforge.net)
 
@@ -59,6 +66,7 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [Microsoft .Net](https://referencesource.microsoft.com)
 - [Mono](https://www.mono-project.com)
 - [QuickTime](https://github.com/qt)
+- [OpenJDK](https://openjdk.java.net)
 - ### [Wine HQ](https://www.winehq.org)
   - [Staging](https://github.com/wine-staging/wine-staging)
 ## Math
