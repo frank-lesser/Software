@@ -3,6 +3,7 @@
 Software rules the world. This is my overview from a programmers point of view. The links below are the GitHub pages of some major companies:
 
 ## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Sony](https://github.com/sony), [Twitter](https://github.com/twitter), [eBay](https://github.com/ebay)
+[Intel](https://github.com/intel), [AMD](https://github.com/amd), [NViDIA](https://github.com/NVIDIA/), [IBM](https://github.com/ibm), [ARM](https://github.com/ARM-software)
 
 ## Software Categories
 ## [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
@@ -69,6 +70,13 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [OpenJDK](https://openjdk.java.net)
 - ### [Wine HQ](https://www.winehq.org)
   - [Staging](https://github.com/wine-staging/wine-staging)
+
+   ### Graphics
+   - [OpenGL](https://github.com/KhronosGroup/OpenGL-Registry)
+   - [DirectX](https://github.com/microsoft/DirectXTK12)
+   - [Vulkan](https://github.com/KhronosGroup/Vulkan-Hpp)
+   - [OpenSceneGraph](http://www.openscenegraph.org)
+
 ## Math
 - [GNU Octave](https://www.gnu.org/software/octave/)
 
@@ -81,6 +89,10 @@ Software rules the world. This is my overview from a programmers point of view. 
   - [LLVM Github mirror](https://github.com/llvm-mirror/llvm)
   - [CLang Github mirror](https://github.com/llvm-mirror/clang)
 
+### ABI
+- [linux64-abi](https://software.intel.com/sites/default/files/article/402129mpx-linux64-abi.pdf)
+- [x86 Calling conventions](https://en.wikipedia.org/wiki/X86_calling_conventions)
+
 ## Databases
 - [PostgreSQL](https://www.postgresql.org)
 ## Tools
@@ -91,6 +103,10 @@ Software rules the world. This is my overview from a programmers point of view. 
   ### Documentation
   - [Sphinx](http://www.sphinx-doc.org/en/master/)
   - [Doxygen](http://www.doxygen.nl)
+
+  ### Graphics
+  - [Blender](https://www.blender.org)
+  - [Krita](https://invent.kde.org/kde/krita)
 
 ### Editors
 - [Emacs](http://zklhp.github.io/emacs-w64/)
@@ -115,3 +131,16 @@ Software rules the world. This is my overview from a programmers point of view. 
 ## GPU
 - [OpenCL](https://www.khronos.org/opencl/)
 - [ArrayFire](https://github.com/arrayfire/arrayfire.git)
+
+## Code Repositories
+- [GitHub](https://github.com)
+- [KDE](https://invent.kde.org/)
+- [Rust Crates]()
+
+## Communities
+- [StackOverflow](https://stackoverflow.com)
+- [CodeProject](https://www.codeproject.com)
+
+## Standards
+
+- [Graphics - Khronos](https://github.com/KhronosGroup)
