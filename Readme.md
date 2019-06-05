@@ -1,19 +1,20 @@
 # Software
 
-Software rules the world. This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licenced under [cc-by-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+Software rules the world. Software runs on [Computer Hardware]((https://github.com/frank-lesser/Software/blob/master/Hardware.md)).
+
+This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licenced under [cc-by-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 The links below are the GitHub pages of some major companies:
 
-## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Sony](https://github.com/sony), [Twitter](https://github.com/twitter), [eBay](https://github.com/ebay)
+## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Mozilla](https://github.com/mozilla), [Sony](https://github.com/sony), [Twitter](https://github.com/twitter), [eBay](https://github.com/ebay)
 [Intel](https://github.com/intel), [AMD](https://github.com/amd), [NViDIA](https://github.com/NVIDIA/), [IBM](https://github.com/ibm), [ARM](https://github.com/ARM-software)
 
-## Software Categories
+# Software Categories
 ## Legal Stuff, Licenses
 - [Choose an open source license](https://choosealicense.com/licenses/)
 - [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
 
 - [Free Software Foundation (FSF) ](https://www.fsf.org)
 - [Alternative Software](https://alternativeto.net)
-- [SourceForge](https://sourceforge.net)
 
 ## Operating-Systems
 
@@ -147,7 +148,9 @@ The links below are the GitHub pages of some major companies:
 - [GitHub](https://github.com)
 - [KDE](https://invent.kde.org/)
 - [Rust Crates](https://crates.io)
+- [Smalltalk hub](http://smalltalkhub.com)
 - [repo.or.cz](https://repo.or.cz)
+- [SourceForge](https://sourceforge.net)
 
 ## Communities
 - [StackOverflow](https://stackoverflow.com)
@@ -166,3 +169,4 @@ The links below are the GitHub pages of some major companies:
 - [ACM](https://www.acm.org)
 - [IEEE](https://www.ieee.org)
 - [W3C](https://www.w3.org)
+- [Unicode](http://www.unicode.org)
