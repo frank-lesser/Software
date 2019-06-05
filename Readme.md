@@ -1,15 +1,19 @@
 # Software
 
-Software rules the world. This is my overview from a programmers point of view. The links below are the GitHub pages of some major companies:
+Software rules the world. This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licenced under [cc-by-4.0](https://choosealicense.com/licenses/cc-by-4.0/)
+The links below are the GitHub pages of some major companies:
 
 ## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Sony](https://github.com/sony), [Twitter](https://github.com/twitter), [eBay](https://github.com/ebay)
 [Intel](https://github.com/intel), [AMD](https://github.com/amd), [NViDIA](https://github.com/NVIDIA/), [IBM](https://github.com/ibm), [ARM](https://github.com/ARM-software)
 
 ## Software Categories
-## [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
+## Legal Stuff, Licenses
+- [Choose an open source license](https://choosealicense.com/licenses/)
+- [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
 
 - [Free Software Foundation (FSF) ](https://www.fsf.org)
 - [Alternative Software](https://alternativeto.net)
+- [SourceForge](https://sourceforge.net)
 
 ## Operating-Systems
 
@@ -24,6 +28,7 @@ Software rules the world. This is my overview from a programmers point of view. 
 
 
 - [MS-Windows](https://www.microsoft.com/en-us/windows)
+  - [MSDN](https://docs.microsoft.com/en-us/)
 - [ReactOS](https://reactos.org)
 - [FreeOS](http://freeos.com/Downloads)
 
@@ -88,6 +93,7 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [LLVM Compiler Infrastructure](http://llvm.org)
   - [LLVM Github mirror](https://github.com/llvm-mirror/llvm)
   - [CLang Github mirror](https://github.com/llvm-mirror/clang)
+- [CMake](https://github.com/Kitware/CMake)
 
 ### ABI
 - [linux64-abi](https://software.intel.com/sites/default/files/article/402129mpx-linux64-abi.pdf)
@@ -121,9 +127,14 @@ Software rules the world. This is my overview from a programmers point of view. 
 - [LibreOffice](https://www.libreoffice.org)
 - [GNumeric](http://www.gnumeric.org)
 
-## [Internet Archive](archive.org)
+### Misc
+- [Ditto Clipoard](https://ditto-cp.sourceforge.io)
 
-## [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+## [Search]
+- [Internet Archive](archive.org)
+- [Search Code](https://searchcode.com)
+
+## [AI / Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
 - [ArrayFire](https://github.com/arrayfire/arrayfire-ml.git)
 - [CNTK](https://github.com/microsoft/CNTK.git)
@@ -135,7 +146,8 @@ Software rules the world. This is my overview from a programmers point of view. 
 ## Code Repositories
 - [GitHub](https://github.com)
 - [KDE](https://invent.kde.org/)
-- [Rust Crates]()
+- [Rust Crates](https://crates.io)
+- [repo.or.cz](https://repo.or.cz)
 
 ## Communities
 - [StackOverflow](https://stackoverflow.com)
@@ -144,3 +156,13 @@ Software rules the world. This is my overview from a programmers point of view. 
 ## Standards
 
 - [Graphics - Khronos](https://github.com/KhronosGroup)
+
+## Libraries
+
+- [CiteSeerX](csxstatic.ist.psu.edu/home)
+
+## Organizations
+
+- [ACM](https://www.acm.org)
+- [IEEE](https://www.ieee.org)
+- [W3C](https://www.w3.org)
