@@ -24,8 +24,11 @@
 - [BlackBerry](https://blackberrymobile.com)
 # Small
 - [Rasperry-PI](https://www.raspberrypi.org)
-# IoT
-# Cloud
+# [IoT](https://en.wikipedia.org/wiki/Internet_of_things)
+# [Cloud](https://en.wikipedia.org/wiki/Cloud_computing)
+# [Quantum Computing]()
+- [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
+- [IBM Q System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
 # History
 ## Home Computers
 - [Commodore](https://en.wikipedia.org/wiki/Commodore_International)
@@ -46,13 +49,18 @@
 - [Intel](https://en.wikipedia.org/wiki/List_of_Intel_microprocessors)
 - [AMD](https://en.wikipedia.org/wiki/List_of_AMD_Athlon_64_microprocessors)
 - [Zilog](https://www.zilog.com/)
-- Motorola
+- [Motorola](https://en.wikipedia.org/wiki/Motorola)
+### 4 Bit
+- [4004](https://en.wikipedia.org/wiki/Intel_4004) - first microprocessor
 ### 8 Bit
 - [8080](https://en.wikipedia.org/wiki/Intel_8080)
-- [Z80](https://en.wikipedia.org/wiki/Zilog_Z80)
+- [Zilog Z80](https://en.wikipedia.org/wiki/Zilog_Z80)
+- [Motorola 6800](https://en.wikipedia.org/wiki/Motorola_6800)
 ### 16 Bit
-- [8086](https://en.wikipedia.org/wiki/Intel_8086)
+- [Intel 8086](https://en.wikipedia.org/wiki/Intel_8086)
+- [Motorola 68000](https://en.wikipedia.org/wiki/Motorola_68000)
 ### 32 Bit
 - [Pentium](https://en.wikipedia.org/wiki/Pentium)
 ### 64 Bit
-- [Intel Core-i7](https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_microprocessors)
+- Latest [Intel Core-i7](https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_microprocessors)
+- First [Itanium](https://en.wikipedia.org/wiki/Itanium)

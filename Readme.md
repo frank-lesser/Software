@@ -1,6 +1,6 @@
 # Software
 
-Software rules the world. Software runs on [Computer Hardware]((https://github.com/frank-lesser/Software/blob/master/Hardware.md)).
+Software rules the world. Software runs on [Computer Hardware](https://github.com/frank-lesser/Software/blob/master/Hardware.md).
 
 This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licenced under [cc-by-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 The links below are the GitHub pages of some major companies:
