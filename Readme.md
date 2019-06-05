@@ -1,6 +1,6 @@
 # Software
 
-Software rules the world. This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licenced under [cc-by-4.0](https://choosealicense.com/licenses/cc-by-4.0/)
+Software rules the world. This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licenced under [cc-by-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 The links below are the GitHub pages of some major companies:
 
 ## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Sony](https://github.com/sony), [Twitter](https://github.com/twitter), [eBay](https://github.com/ebay)
