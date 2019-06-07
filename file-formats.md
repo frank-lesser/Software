@@ -3,6 +3,7 @@ This is my link-collection to important File-Formats & Tools.
 
 - [Human-Readable-Formats](https://github.com/frank-lesser/Software/blob/master/Human-Readable-Formats.md).
 - [File Extensions](https://www.file-extensions.org)
+- [Nirsoft database](https://extension.nirsoft.net)
 - [File Info](https://fileinfo.com)
 
 ## Binary
@@ -47,17 +48,21 @@ This is my link-collection to important File-Formats & Tools.
 - [GIF]()
 - [TIFF]()
 ### Video
-- [MPeg]
+- [MPEG]()
 ### Audio
 - [WAV]
 - [MP3]
 ## Multimedia
 - [MP4]
 - [VOB]
-
-
+- [Youtube fornats](https://support.google.com/youtube/troubleshooter/2888402?hl=en)
+## [Virtual Reality](https://www.winxdvd.com/resource/best-virtual-reality-video-formats.htm)
 ## Database
 - [DBF]
 - [MDB]
 ## Objects
 - [BSON]() (Binary JSON)
+- [Google Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+## Encryption
+- [AES](https://www.aescrypt.com/aes_file_format.html)

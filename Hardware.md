@@ -67,3 +67,7 @@
 
 ## 3D Printing
 - [All3D](https://all3dp.com)
+
+## [Robotics](https://en.wikipedia.org/wiki/Robotics)
+
+## [Binonics](https://en.wikipedia.org/wiki/Bionics)

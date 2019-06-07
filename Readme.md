@@ -9,11 +9,14 @@ The links below are the GitHub pages of some major companies:
 [Intel](https://github.com/intel), [AMD](https://github.com/amd), [NViDIA](https://github.com/NVIDIA/), [IBM](https://github.com/ibm), [ARM](https://github.com/ARM-software)
 
 # Software Categories
+- ## [Turing Awards](https://en.wikipedia.org/wiki/Turing_Award9)
+
 ## Legal Stuff, Licenses
 - [Choose an open source license](https://choosealicense.com/licenses/)
 - [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
 
 - [Free Software Foundation (FSF) ](https://www.fsf.org)
+- [Apache Software Foundation (ASF) ](http://apache.org)
 - [Alternative Software](https://alternativeto.net)
 
 ## Operating-Systems
@@ -110,6 +113,7 @@ The links below are the GitHub pages of some major companies:
 
 - [Git](https://github.com/git/git)
 - [WinMerge](https://github.com/WinMerge/winmerge-v2)
+- [Nirsoft Utilities](http://www.nirsoft.net)
 
   ### Documentation
   - [Sphinx](http://www.sphinx-doc.org/en/master/)
@@ -127,7 +131,11 @@ The links below are the GitHub pages of some major companies:
 
 ### Encryption
 - [Gpg4win](https://gpg4win.org)
+- [OpnenPGP](https://www.openpgp.org)
+- [Fingerprints](https://en.wikipedia.org/wiki/Fingerprint_(computing))
 
+### Documents
+- [Latex](https://www.latex-project.org) [(Source)](https://github.com/latex3)
 ### Office
 - [LibreOffice](https://www.libreoffice.org)
 - [GNumeric](http://www.gnumeric.org)
