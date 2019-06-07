@@ -64,3 +64,6 @@
 ### 64 Bit
 - Latest [Intel Core-i7](https://en.wikipedia.org/wiki/List_of_Intel_Core_i7_microprocessors)
 - First [Itanium](https://en.wikipedia.org/wiki/Itanium)
+
+## 3D Printing
+- [All3D](https://all3dp.com)

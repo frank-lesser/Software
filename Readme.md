@@ -32,6 +32,8 @@ The links below are the GitHub pages of some major companies:
   - [MSDN](https://docs.microsoft.com/en-us/)
 - [ReactOS](https://reactos.org)
 - [FreeOS](http://freeos.com/Downloads)
+### Real-Time
+- [eCos] http://ecos.sourceware.org
 
 ## Science
 - [Nasa](https://github.com/nasa), [MIT](https://news.mit.edu/topic/software), [Berkeley](https://software.berkeley.edu)
@@ -58,6 +60,8 @@ The links below are the GitHub pages of some major companies:
 - [Julia](https://julialang.org), [Zig](https://ziglang.org)
 - [Non-Engish](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
 
+## Description Languages
+- [IDL](https://en.wikipedia.org/wiki/Interface_description_language)
 ## Game engines
 - [Godot](https://github.com/godotengine/godot)
 - [Unity](https://github.com/Unity-Technologies/UnityCsReference)
@@ -131,7 +135,7 @@ The links below are the GitHub pages of some major companies:
 ### Misc
 - [Ditto Clipoard](https://ditto-cp.sourceforge.io)
 
-## [Search]
+## Search
 - [Internet Archive](archive.org)
 - [Search Code](https://searchcode.com)
 
