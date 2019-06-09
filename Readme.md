@@ -2,22 +2,25 @@
 
 Software rules the world. Software runs on [Computer Hardware](https://github.com/frank-lesser/Software/blob/master/Hardware.md).
 
-This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licenced under [cc-by-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licensed under [cc-by-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
 The links below are the GitHub pages of some major companies:
 
 ## [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Microsoft](https://github.com/microsoft), [Apple](https://github.com/apple), [Amazon](https://github.com/amzn), [Oracle](https://github.com/oracle), [Mozilla](https://github.com/mozilla), [Sony](https://github.com/sony), [Twitter](https://github.com/twitter), [eBay](https://github.com/ebay)
 [Intel](https://github.com/intel), [AMD](https://github.com/amd), [NViDIA](https://github.com/NVIDIA/), [IBM](https://github.com/ibm), [ARM](https://github.com/ARM-software)
 
+# My personal view
+ - [modern Software is Heavyware](https://github.com/frank-lesser/Software/blob/master/Heavyware.md).
 # Software Categories
-- ## [Turing Awards](https://en.wikipedia.org/wiki/Turing_Award9)
 
-## Legal Stuff, Licenses
+## Legal Stuff, Licenses, Awards
 - [Choose an open source license](https://choosealicense.com/licenses/)
 - [OpenSource vs. ClosedSource](https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software)
 
 - [Free Software Foundation (FSF) ](https://www.fsf.org)
 - [Apache Software Foundation (ASF) ](http://apache.org)
 - [Alternative Software](https://alternativeto.net)
+- [Turing Awards](https://en.wikipedia.org/wiki/Turing_Award)
 
 ## Operating-Systems
 
@@ -36,11 +39,10 @@ The links below are the GitHub pages of some major companies:
 - [ReactOS](https://reactos.org)
 - [FreeOS](http://freeos.com/Downloads)
 ### Real-Time
-- [eCos] http://ecos.sourceware.org
+- [eCos](http://ecos.sourceware.org)
 
 ## Science
 - [Nasa](https://github.com/nasa), [MIT](https://news.mit.edu/topic/software), [Berkeley](https://software.berkeley.edu)
-
 
 ## Research
 - [Microsoft](https://research.microsoft.com/)
@@ -65,6 +67,10 @@ The links below are the GitHub pages of some major companies:
 
 ## Description Languages
 - [IDL](https://en.wikipedia.org/wiki/Interface_description_language)
+
+## File Formats
+- [Binary]((https://github.com/frank-lesser/Software/blob/master/file-formats.md).)
+- [Human readable](https://github.com/frank-lesser/Software/blob/master/Human-readable-formats.md)
 ## Game engines
 - [Godot](https://github.com/godotengine/godot)
 - [Unity](https://github.com/Unity-Technologies/UnityCsReference)
@@ -89,6 +95,7 @@ The links below are the GitHub pages of some major companies:
    - [DirectX](https://github.com/microsoft/DirectXTK12)
    - [Vulkan](https://github.com/KhronosGroup/Vulkan-Hpp)
    - [OpenSceneGraph](http://www.openscenegraph.org)
+## [Protocols](https://github.com/frank-lesser/Software/blob/master/Protocols.md)
 
 ## Math
 - [GNU Octave](https://www.gnu.org/software/octave/)
@@ -111,6 +118,7 @@ The links below are the GitHub pages of some major companies:
 - [PostgreSQL](https://www.postgresql.org)
 ## Tools
 
+- [my private Tools collection](https://github.com/frank-lesser/Software/blob/master/my-tools.md)
 - [Git](https://github.com/git/git)
 - [WinMerge](https://github.com/WinMerge/winmerge-v2)
 - [Nirsoft Utilities](http://www.nirsoft.net)
