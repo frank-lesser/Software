@@ -171,4 +171,4 @@ To avoid to have to write casting operations when you pass incompatible variable
 
 f(a) generates f(a->argType1()).
 
-Innovation seem to need single persons - a new C like language which exactly avoids all the C++ implicitness appeared - [ZIG](ziglang.org) Andrew Kelly - its inventor explains the different design [here](https://github.com/ziglang/zig/wiki/Why-Zig-When-There-is-Already-CPP,-D,-and-Rust%3F).
+Innovation seem to need single persons - a new C like language which exactly avoids all the C++ implicitness appeared - [ZIG](https://ziglang.org) Andrew Kelley - its inventor explains the different design [here](https://github.com/ziglang/zig/wiki/Why-Zig-When-There-is-Already-CPP,-D,-and-Rust%3F).

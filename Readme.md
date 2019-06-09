@@ -1,6 +1,6 @@
 # Software
 
-Software rules the world. Software runs on [Computer Hardware](https://github.com/frank-lesser/Software/blob/master/Hardware.md).
+Software rules the world. Software runs on [Computer Hardware](Hardware.md).
 
 This is my overview from a programmers point of view. This Link collection [published here](https://github.com/frank-lesser/Software) is licensed under [cc-by-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
@@ -10,7 +10,7 @@ The links below are the GitHub pages of some major companies:
 [Intel](https://github.com/intel), [AMD](https://github.com/amd), [NViDIA](https://github.com/NVIDIA/), [IBM](https://github.com/ibm), [ARM](https://github.com/ARM-software)
 
 # My personal view
- - [modern Software is Heavyware](https://github.com/frank-lesser/Software/blob/master/Heavyware.md).
+ - [modern Software became Heavyware](heavyware.md).
 # Software Categories
 
 ## Legal Stuff, Licenses, Awards
@@ -69,8 +69,8 @@ The links below are the GitHub pages of some major companies:
 - [IDL](https://en.wikipedia.org/wiki/Interface_description_language)
 
 ## File Formats
-- [Binary]((https://github.com/frank-lesser/Software/blob/master/file-formats.md).)
-- [Human readable](https://github.com/frank-lesser/Software/blob/master/Human-readable-formats.md)
+- [Binary](file-formats.md)
+- [Human readable](Human-readable-formats.md)
 ## Game engines
 - [Godot](https://github.com/godotengine/godot)
 - [Unity](https://github.com/Unity-Technologies/UnityCsReference)
@@ -95,7 +95,7 @@ The links below are the GitHub pages of some major companies:
    - [DirectX](https://github.com/microsoft/DirectXTK12)
    - [Vulkan](https://github.com/KhronosGroup/Vulkan-Hpp)
    - [OpenSceneGraph](http://www.openscenegraph.org)
-## [Protocols](https://github.com/frank-lesser/Software/blob/master/Protocols.md)
+## [Protocols](Protocols.md)
 
 ## Math
 - [GNU Octave](https://www.gnu.org/software/octave/)
@@ -118,7 +118,7 @@ The links below are the GitHub pages of some major companies:
 - [PostgreSQL](https://www.postgresql.org)
 ## Tools
 
-- [my private Tools collection](https://github.com/frank-lesser/Software/blob/master/my-tools.md)
+- [my private Tools collection](my-tools.md)
 - [Git](https://github.com/git/git)
 - [WinMerge](https://github.com/WinMerge/winmerge-v2)
 - [Nirsoft Utilities](http://www.nirsoft.net)
@@ -131,6 +131,9 @@ The links below are the GitHub pages of some major companies:
   - [Blender](https://www.blender.org)
   - [Krita](https://invent.kde.org/kde/krita)
 
+  ### Game creation
+  - [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game))
+  
 ### Editors
 - [Emacs](http://zklhp.github.io/emacs-w64/)
 - [Notepad++](https://github.com/notepad-plus-plus)
