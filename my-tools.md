@@ -1,11 +1,14 @@
 ## My Tools
-downloadable links are coming soon.
+Tools are in early state & will be updated frequently.
 
-- [LOC]()
+- [LOC]() - coming soon
 
   Lines of code compiled from [Rust LOC]() and enhanced a bit.
 
-- [PDB2EX](tools/pdbex.7z)
+- [LSW-PDB2EX](tools/lsw-pdbex.7z)
 
-  Generates JSON from PDB 
-  
+  Generates JSON from PDB
+
+ - [LSW ScintillaPad](tools/LSW-ScintillaPad.7z)
+
+   Standalone Editor
