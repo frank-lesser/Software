@@ -5,7 +5,7 @@ Tools are in early state & will be updated frequently.
 
   Lines of code compiled from [Rust LOC]() and enhanced a bit.
 
-- [LSW-PDB2EX](tools/lsw-pdbex.7z)
+- [LSW-PDB2EX](tools/LSW-pdbex.7z)
 
   Generates JSON from PDB
 
