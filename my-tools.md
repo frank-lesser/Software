@@ -12,3 +12,7 @@ Tools are in early state & will be updated frequently.
  - [LSW ScintillaPad](tools/LSW-ScintillaPad.7z)
 
    Standalone Editor
+
+  - [LSW Winfile](tools/LSW-WinFile.7z)
+
+    Enhanced Version of Microsoft's WinFile
