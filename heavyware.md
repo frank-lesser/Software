@@ -3,7 +3,7 @@
 In advance - I am biased - I am a "Smalltalker" - **Smalltalk** is a programming Language one of its inventors is [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay).
 I am not going to convince you the reader about anything - just I am typing my thoughts into this document.
 
-So what what is Heavyware - A first indication that Software is Heavyware is its pure size.
+So what what is **Heavyware** ? A first indication that Software is Heavyware is its pure size.
 I am using **LOC** (Lines of code), executing it at a main folder of a software package - often the result is millions of lines. Heavy means here too large to understand just TL;TR. But Source code is for read and understand by human and a neat side effect is that it can be compiled & executed on a machine.
 
 Millions of lines -  it must be a huge complex work - ok just browsing it a little and encounter statements like 
@@ -28,12 +28,15 @@ When I was young there were mainly 2 groups of languages - Pascal like & Lisp li
 
 ## Two ways of writing software
 And as today there were 2 ways of developing a program - the traditional write compile & test cycle & the way
-interpreted languages did it: you change a system by adding functionality which is immediatly available. 
+interpreted languages did it: you change a system by adding functionality which is immediately available. 
 
 Smalltalk is object oriented - OO simply means you group functions with data. So the function name print can be reused on different data structures.
 Data-Structure + functions = Object.
 
 ## Evolution of C
+A good overview is [History of C++](http://www.cplusplus.com/info/history/).
+Now I am looking at the need of language improvements in order to make C more readable:
+
 OO is more elegant - where you need to write Date_print & Time_print in C 
 and pass the data structure ( here a Date or a Time) usually as the first parameter - also
 
@@ -172,3 +175,12 @@ To avoid to have to write casting operations when you pass incompatible variable
 f(a) generates f(a->argType1()).
 
 Innovation seem to need single persons - a new C like language which exactly avoids all the C++ implicitness appeared - [ZIG](https://ziglang.org) Andrew Kelley - its inventor explains the different design [here](https://github.com/ziglang/zig/wiki/Why-Zig-When-There-is-Already-CPP,-D,-and-Rust%3F).
+
+## How Software is build
+Today software is build by applying "toolchains". There exist popular interactive development environments (IDE) like [MS Visual Studio](https://visualstudio.microsoft.com/de/vs/) under Windows or [Android Studio](https://developer.android.com/studio/), which offer a complex and feature reach GUI for development.
+
+Back in early days looking at the first Personal computer [Commodore PET 2001](https://en.wikipedia.org/wiki/Commodore_PET) which comes with a build in Basic Interpreter writing a program was the process of entering line numbered Basic statements & running the program just by entering **RUN**. No build was required. That is similar to [Interactive Python](https://docs.python.org/3/tutorial/interpreter.html).
+Languages like C++ require a different approach known as [Edit Compile Run Cycle](https://cs.hofstra.edu/docs/pages/guides/compiling_cpp.html)
+
+In the **Visual Studio IDE** you have **Build-Button** which "builds" an executable and running the executable is accomplishd by pressing **Debug** - If you want only to run it you have to choose **Start without debugging** .
+But if you want to run "Modern Windows-RT" programs you need to **Deploy** your application.

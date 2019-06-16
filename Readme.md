@@ -193,3 +193,6 @@ The links below are the GitHub pages of some major companies:
 - [IEEE](https://www.ieee.org)
 - [W3C](https://www.w3.org)
 - [Unicode](http://www.unicode.org)
+
+## History 
+- [History of Windows](https://en.wikipedia.org/wiki/Microsoft_Windows_version_history)
