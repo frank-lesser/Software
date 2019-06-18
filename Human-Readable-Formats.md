@@ -2,8 +2,8 @@
 
 - [Txt](https://fileinfo.com/extension/txt)
 - [Asc]
-- [CSV]
-- [RTF]
+- [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
+- [RTF](https://en.wikipedia.org/wiki/Rich_Text_Format)
 ## Markup Languages
 - [HTML](https://html.spec.whatwg.org/multipage/)
 - [XML](https://www.w3.org/TR/2006/REC-xml11-20060816/)

@@ -52,7 +52,7 @@ The links below are the GitHub pages of some major companies:
 - [Disney](https://github.com/disney), [Electronic-Arts](https://github.com/electronicarts), [Sony](https://github.com/sony), [Valve](https://github.com/ValveSoftware)
 
 ## Programming Languages
-- [Assembler](https://en.wikipedia.org/wiki/Assembly_language), [C](https://www.cprogramming.com), [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)), [BASIC](https://en.wikipedia.org/wiki/BASIC), [Fortran](https://www.fortran.com), [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+- [Assembler](https://en.wikipedia.org/wiki/Assembly_language), [C](https://www.cprogramming.com), [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)), [BASIC](https://en.wikipedia.org/wiki/BASIC), [Fortran](https://www.fortran.com), [Pascal](https://www.freepascal.org)
 - [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk), [C++](https://www.cprogramming.com), [Modula](https://en.wikipedia.org/wiki/Modula-3), [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), [Oberon](http://www.projectoberon.com/), [Prolog](http://www.learnprolognow.org), [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [Java](https://www.java.com), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Ruby](https://www.ruby-lang.org/en/), [VB](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 - [Oberon](http://www.projectoberon.com), [Delphi](https://www.embarcadero.com/products/delphi), [Eiffel](https://www.eiffel.com)
@@ -67,7 +67,7 @@ The links below are the GitHub pages of some major companies:
 
 ## Description Languages
 - [IDL](https://en.wikipedia.org/wiki/Interface_description_language)
-
+- [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 ## File Formats
 - [Binary](file-formats.md)
 - [Human readable](Human-readable-formats.md)
@@ -95,6 +95,17 @@ The links below are the GitHub pages of some major companies:
    - [DirectX](https://github.com/microsoft/DirectXTK12)
    - [Vulkan](https://github.com/KhronosGroup/Vulkan-Hpp)
    - [OpenSceneGraph](http://www.openscenegraph.org)
+
+## Development
+
+- [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model)
+- [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
+- [Design Patterns](https://www.oodesign.com)
+- [Testing](https://en.wikipedia.org/wiki/Software_testing)
+- [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
+
+  - [Class Browser](https://en.wikipedia.org/wiki/Class_browser)
+
 ## [Protocols](Protocols.md)
 
 ## Math
@@ -181,6 +192,7 @@ The links below are the GitHub pages of some major companies:
 
 ## Standards
 
+- [IETF - RFC Documents](https://tools.ietf.org/html/)
 - [Graphics - Khronos](https://github.com/KhronosGroup)
 
 ## Libraries
