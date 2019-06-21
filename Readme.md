@@ -85,12 +85,17 @@ The links below are the GitHub pages of some major companies:
 - [Boost](https://www.boost.org)
 - [Microsoft .Net](https://referencesource.microsoft.com)
 - [Mono](https://www.mono-project.com)
-- [QuickTime](https://github.com/qt)
 - [OpenJDK](https://openjdk.java.net)
 - ### [Wine HQ](https://www.winehq.org)
   - [Staging](https://github.com/wine-staging/wine-staging)
+  ### GUI
+  - [GTK](https://www.gtk.org)
+  - [QuickTime](https://github.com/qt)
+  - [IMGUI](https://github.com/ocornut/imgui)
+  - [bgfx](https://github.com/bkaradzic/bgfx)
 
-   ### Graphics
+
+  ### Graphics
    - [OpenGL](https://github.com/KhronosGroup/OpenGL-Registry)
    - [DirectX](https://github.com/microsoft/DirectXTK12)
    - [Vulkan](https://github.com/KhronosGroup/Vulkan-Hpp)
@@ -121,6 +126,16 @@ The links below are the GitHub pages of some major companies:
   - [CLang Github mirror](https://github.com/llvm-mirror/clang)
 - [CMake](https://github.com/Kitware/CMake)
 
+## Programming Languages Virtual-Machines
+- [Smalltalk](http://www.smalltalksystems.com/publications/avmarch.pdf)
+  - [Cog](http://web.cs.iastate.edu/~design/vmil/2011/papers/p03-miranda.pdf)
+  - [Dolphin](https://github.com/dolphinsmalltalk/DolphinVM)
+  - [LSWGVM](http://www.lesser-software.com/en/flavours/frames/default.htm)
+- [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine#JVM_languages)
+  [Build on JVM](https://en.wikipedia.org/wiki/List_of_JVM_languages)
+  - [Clojure](https://clojure.org)
+- [CLR](https://docs.microsoft.com/en-us/dotnet/standard/clr)
+
 ### ABI
 - [linux64-abi](https://software.intel.com/sites/default/files/article/402129mpx-linux64-abi.pdf)
 - [x86 Calling conventions](https://en.wikipedia.org/wiki/X86_calling_conventions)
@@ -131,7 +146,10 @@ The links below are the GitHub pages of some major companies:
 
 - [my private Tools collection](my-tools.md)
 - [Git](https://github.com/git/git)
+- [FileZilla](https://filezilla-project.org)
+- [FileSync](https://freefilesync.org/)
 - [WinMerge](https://github.com/WinMerge/winmerge-v2)
+- [7z](https://www.7-zip.org)
 - [Nirsoft Utilities](http://www.nirsoft.net)
 
   ### Documentation
@@ -150,10 +168,23 @@ The links below are the GitHub pages of some major companies:
 - [Notepad++](https://github.com/notepad-plus-plus)
 - [VSCode](https://github.com/microsoft/vscode)
 - [VIM](https://www.vim.org)
+- [CodeMirror](https://codemirror.net)
+
+### Internet browser
+
+- [Firefox](https://en.wikipedia.org/wiki/Firefox)
+  - [Render Engine Gecko]((https://github.com/mozilla/gecko-dev))
+- [Internet_Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
+- [Chrome](https://en.wikipedia.org/wiki/Google_Chrome) 
+
+   - [RenderEngine Blink](https://www.chromium.org/blink)
+
+- [Opera](https://en.wikipedia.org/wiki/Opera_(web_browser))
+- [Vivaldi](https://vivaldi.com)
 
 ### Encryption
 - [Gpg4win](https://gpg4win.org)
-- [OpnenPGP](https://www.openpgp.org)
+- [OpenPGP](https://www.openpgp.org)
 - [Fingerprints](https://en.wikipedia.org/wiki/Fingerprint_(computing))
 
 ### Documents
@@ -161,9 +192,10 @@ The links below are the GitHub pages of some major companies:
 ### Office
 - [LibreOffice](https://www.libreoffice.org)
 - [GNumeric](http://www.gnumeric.org)
-
+### Communication
+   - [Discord](https://discordapp.com)
 ### Misc
-- [Ditto Clipoard](https://ditto-cp.sourceforge.io)
+- [Ditto Clipboard](https://ditto-cp.sourceforge.io)
 
 ## Search
 - [Internet Archive](archive.org)
@@ -176,6 +208,7 @@ The links below are the GitHub pages of some major companies:
 
 ## GPU
 - [OpenCL](https://www.khronos.org/opencl/)
+- [GPUOpen](gpuopen.com)
 - [ArrayFire](https://github.com/arrayfire/arrayfire.git)
 
 ## Code Repositories
