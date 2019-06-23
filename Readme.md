@@ -231,10 +231,12 @@ The links below are the GitHub pages of some major companies:
 ## Libraries
 
 - [CiteSeerX](csxstatic.ist.psu.edu/home)
+- [Digital Preservation at the Library of Congress](https://www.loc.gov/preservation/digital/index.html)
 
 ## Organizations
 
 - [ACM](https://www.acm.org)
+- [ECMA](https://en.wikipedia.org/wiki/Ecma_International )
 - [IEEE](https://www.ieee.org)
 - [W3C](https://www.w3.org)
 - [Unicode](http://www.unicode.org)
