@@ -65,6 +65,10 @@ The links below are the GitHub pages of some major companies:
 - [Julia](https://julialang.org), [Zig](https://ziglang.org)
 - [Non-Engish](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
 
+## Macro Languages
+- [C Preprocessor](https://en.wikipedia.org/wiki/C_preprocessor)
+- [M4](https://en.wikipedia.org/wiki/M4_(computer_language))
+([Notes on the M4 Macro Language](http://mbreen.com/m4.html))
 ## Description Languages
 - [IDL](https://en.wikipedia.org/wiki/Interface_description_language)
 - [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
@@ -169,6 +173,8 @@ The links below are the GitHub pages of some major companies:
 - [VSCode](https://github.com/microsoft/vscode)
 - [VIM](https://www.vim.org)
 - [CodeMirror](https://codemirror.net)
+
+- [Comparing and Merging Files](https://www.gnu.org/software/diffutils/manual/html_mono/diff.html)
 
 ### Internet browser
 

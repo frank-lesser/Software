@@ -9,9 +9,9 @@ This is my link-collection to important File-Formats & Tools.
 
 ## Binary
 - [COFF](https://github.com/frank-lesser/dtformats/blob/master/documentation/Copy%20in%20and%20out%20(CPIO)%20archive%20format.asciidoc)
-- [PE-COFF]()
+- [PE-COFF](https://docs.microsoft.com/en-us/windows/desktop/Debug/pe-format)
 - [ELF]()
-- [PDB]()
+- [PDB](https://msdn.microsoft.com/en-us/library/windows/desktop/aa363368(v=vs.85).aspx) (Program Database Symbol File format)
 - [DWarf]()
 
 ## File-System
