@@ -68,3 +68,6 @@ This is my link-collection to important File-Formats & Tools.
 
 ## Encryption
 - [AES](https://www.aescrypt.com/aes_file_format.html)
+
+## Commercial Tools
+- [Windows Fileviewerplus](https://fileviewerplus.com)
