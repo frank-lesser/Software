@@ -27,6 +27,7 @@ The links below are the GitHub pages of some major companies:
 - Unix Systems
 
     - [BSD](https://www.bsd.org)
+      -[FreeBSD](https://github.com/freebsd)
     - [Linux](https://www.linux.com)
     - [GNU](https://www.gnu.org)
 
@@ -60,7 +61,7 @@ The links below are the GitHub pages of some major companies:
 - [Python](https://www.python.org), [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Matlab](https://www.mathworks.com/products/matlab.html), [Mathematica](https://www.wolfram.com/language/index.en.html?footer=lang), [R](https://www.r-project.org), [ML](https://en.wikipedia.org/wiki/ML_(programming_language)), 
 - [Lua](https://www.lua.org), [Typescript](http://www.typescriptlang.org)
-- [Scheme](https://schemers.org), [Haskell](https://www.haskell.org), [F#](https://docs.microsoft.com/en-us/dotnet/fsharp), [CommonLISP](https://common-lisp.net)
+- [Scheme](https://schemers.org), [Haskell](https://www.haskell.org), [F#](https://docs.microsoft.com/en-us/dotnet/fsharp), [CommonLISP](https://common-lisp.net), [OCaml](https://ocaml.org)
 - [Go](https://golang.org), [Dart](https://dart.dev), [Kotlin](https://kotlinlang.org)
 - [Julia](https://julialang.org), [Zig](https://ziglang.org)
 - [Non-Engish](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
@@ -114,6 +115,7 @@ The links below are the GitHub pages of some major companies:
 - [Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
 
   - [Class Browser](https://en.wikipedia.org/wiki/Class_browser)
+- [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle)
 
 ## [Protocols](Protocols.md)
 
@@ -236,6 +238,7 @@ The links below are the GitHub pages of some major companies:
 
 ## Libraries
 
+- [arxiv](https://arxiv.org)
 - [CiteSeerX](csxstatic.ist.psu.edu/home)
 - [Digital Preservation at the Library of Congress](https://www.loc.gov/preservation/digital/index.html)
 
