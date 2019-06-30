@@ -62,9 +62,11 @@ The links below are the GitHub pages of some major companies:
 - [Matlab](https://www.mathworks.com/products/matlab.html), [Mathematica](https://www.wolfram.com/language/index.en.html?footer=lang), [R](https://www.r-project.org), [ML](https://en.wikipedia.org/wiki/ML_(programming_language)), 
 - [Lua](https://www.lua.org), [Typescript](http://www.typescriptlang.org)
 - [Scheme](https://schemers.org), [Haskell](https://www.haskell.org), [F#](https://docs.microsoft.com/en-us/dotnet/fsharp), [CommonLISP](https://common-lisp.net), [OCaml](https://ocaml.org)
+- [Rust]()
 - [Go](https://golang.org), [Dart](https://dart.dev), [Kotlin](https://kotlinlang.org)
 - [Julia](https://julialang.org), [Zig](https://ziglang.org)
 - [Non-Engish](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
+- [**Rosetta Code**](http://rosettacode.org)
 
 ## Macro Languages
 - [C Preprocessor](https://en.wikipedia.org/wiki/C_preprocessor)
@@ -75,7 +77,7 @@ The links below are the GitHub pages of some major companies:
 - [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
 ## File Formats
 - [Binary](file-formats.md)
-- [Human readable](Human-readable-formats.md)
+- [Human readable](Human-Readable-Formats.md)
 ## Game engines
 - [Godot](https://github.com/godotengine/godot)
 - [Unity](https://github.com/Unity-Technologies/UnityCsReference)
@@ -106,6 +108,9 @@ The links below are the GitHub pages of some major companies:
    - [Vulkan](https://github.com/KhronosGroup/Vulkan-Hpp)
    - [OpenSceneGraph](http://www.openscenegraph.org)
 
+   ### Internet
+   - [CURL](https://curl.haxx.se) 
+
 ## Development
 
 - [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model)
@@ -131,6 +136,16 @@ The links below are the GitHub pages of some major companies:
   - [LLVM Github mirror](https://github.com/llvm-mirror/llvm)
   - [CLang Github mirror](https://github.com/llvm-mirror/clang)
 - [CMake](https://github.com/Kitware/CMake)
+
+- ### JIT
+  - Bytecode
+    - Smalltalk Bytecode
+      - [Squeak](https://marcusdenker.de/talks/07SCGSmalltalk/11Bytecode.pdf)
+      - [Dolphin]()
+      - [LSWWGVM]()
+    - Java Bytecode
+    - LLVM Bitcode
+  - [Cranelift](https://cranelift.readthedocs.io/)
 
 ## Programming Languages Virtual-Machines
 - [Smalltalk](http://www.smalltalksystems.com/publications/avmarch.pdf)

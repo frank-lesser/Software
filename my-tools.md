@@ -15,4 +15,4 @@ Tools are in early state & will be updated frequently.
 
 - [LSW WinFile](tools/LSW-WinFile.7z)
 
-    Enhanced Version of Microsoft's WinFile.
+    Enhanced Version of Microsoft's WinFile (WIP). Contains addons for Javascript, C, Dumping Contents of Binaries & PDB's , Showing Hashes ( Crc32, MD5, SHA1) , Executing Commands based on JSON.
