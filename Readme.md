@@ -54,7 +54,7 @@ The links below are the GitHub pages of some major companies:
 
 ## Programming Languages
 - [Assembler](https://en.wikipedia.org/wiki/Assembly_language), [C](https://www.cprogramming.com), [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)), [BASIC](https://en.wikipedia.org/wiki/BASIC), [Fortran](https://www.fortran.com), [Pascal](https://www.freepascal.org)
-- [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk), [C++](https://www.cprogramming.com), [Modula](https://en.wikipedia.org/wiki/Modula-3), [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), [Oberon](http://www.projectoberon.com/), [Prolog](http://www.learnprolognow.org), [SQL](https://en.wikipedia.org/wiki/SQL)
+- [Smalltalk](smalltalk.md), [C++](https://www.cprogramming.com), [Modula](https://en.wikipedia.org/wiki/Modula-3), [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), [Oberon](http://www.projectoberon.com/), [Prolog](http://www.learnprolognow.org), [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [Java](https://www.java.com), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Ruby](https://www.ruby-lang.org/en/), [VB](https://docs.microsoft.com/en-us/dotnet/visual-basic)
 - [Oberon](http://www.projectoberon.com), [Delphi](https://www.embarcadero.com/products/delphi), [Eiffel](https://www.eiffel.com)
 - [Shell](https://en.wikipedia.org/wiki/Shell_script), [AWK](https://en.wikipedia.org/wiki/AWK_(programming_language)), [Perl](https://www.perl.org), [PHP](https://www.php.net)
@@ -62,7 +62,7 @@ The links below are the GitHub pages of some major companies:
 - [Matlab](https://www.mathworks.com/products/matlab.html), [Mathematica](https://www.wolfram.com/language/index.en.html?footer=lang), [R](https://www.r-project.org), [ML](https://en.wikipedia.org/wiki/ML_(programming_language)), 
 - [Lua](https://www.lua.org), [Typescript](http://www.typescriptlang.org)
 - [Scheme](https://schemers.org), [Haskell](https://www.haskell.org), [F#](https://docs.microsoft.com/en-us/dotnet/fsharp), [CommonLISP](https://common-lisp.net), [OCaml](https://ocaml.org)
-- [Rust]()
+- [Rust](rust.md)
 - [Go](https://golang.org), [Dart](https://dart.dev), [Kotlin](https://kotlinlang.org)
 - [Julia](https://julialang.org), [Zig](https://ziglang.org)
 - [Non-Engish](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
