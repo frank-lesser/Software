@@ -13,7 +13,7 @@ The links below are the GitHub pages of some major companies:
  - [modern Software became Heavyware](heavyware.md).
 ## Personal Tools
  - [LSW WinFile](tools/LSW-WinFile-Readme.md)
- - [LSW X64X32 Gate](tools\LSW-X64X32-Gate.md)
+ - [LSW X64X32 Gate](tools/LSW-X64X32-Gate.md)
 
 # Software Categories
 
