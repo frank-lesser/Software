@@ -34,6 +34,9 @@ This is my link-collection to important File-Formats & Tools.
 - [DOC]()
 - [XLS]() MS-Excel
 
+  converting Documents
+  - [Pandoc](https://pandoc.org)
+
 ## Graphics
 - [3DS]()
 - [3DS-Max]()

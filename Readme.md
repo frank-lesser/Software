@@ -11,6 +11,10 @@ The links below are the GitHub pages of some major companies:
 
 # My personal view
  - [modern Software became Heavyware](heavyware.md).
+## Personal Tools
+ - [LSW WinFile](tools/LSW-WinFile-Readme.md)
+ - [LSW X64X32 Gate](tools\LSW-X64X32-Gate.md)
+
 # Software Categories
 
 ## Legal Stuff, Licenses, Awards
@@ -90,6 +94,7 @@ The links below are the GitHub pages of some major companies:
 ## Frameworks & Libraries
 
 - [Boost](https://www.boost.org)
+- [COM](https://docs.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal)
 - [Microsoft .Net](https://referencesource.microsoft.com)
 - [Mono](https://www.mono-project.com)
 - [OpenJDK](https://openjdk.java.net)
@@ -108,6 +113,7 @@ The links below are the GitHub pages of some major companies:
    - [Vulkan](https://github.com/KhronosGroup/Vulkan-Hpp)
    - [OpenSceneGraph](http://www.openscenegraph.org)
 
+   [Graphics in Windows](https://docs.microsoft.com/en-us/windows/win32/direct3darticles/graphics-apis-in-windows-vista) 
    ### Internet
    - [CURL](https://curl.haxx.se) 
 
@@ -135,6 +141,7 @@ The links below are the GitHub pages of some major companies:
 - [LLVM Compiler Infrastructure](http://llvm.org)
   - [LLVM Github mirror](https://github.com/llvm-mirror/llvm)
   - [CLang Github mirror](https://github.com/llvm-mirror/clang)
+  - [Intel Intrinsics](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)
 - [CMake](https://github.com/Kitware/CMake)
 
 - ### JIT
@@ -256,6 +263,11 @@ The links below are the GitHub pages of some major companies:
 - [arxiv](https://arxiv.org)
 - [CiteSeerX](csxstatic.ist.psu.edu/home)
 - [Digital Preservation at the Library of Congress](https://www.loc.gov/preservation/digital/index.html)
+
+## [Developer Blogs](dev-blogs.md)
+
+- [Microsoft](https://blogs.msdn.microsoft.com)
+
 
 ## Organizations
 
